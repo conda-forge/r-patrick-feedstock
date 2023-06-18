@@ -1,11 +1,11 @@
-About r-patrick
-===============
+About r-patrick-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-patrick-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/google/patrick
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-patrick-feedstock/blob/main/LICENSE.txt)
 
 Summary: This is an extension of the 'testthat' package that lets you add parameters to your unit tests. Parameterized unit tests are often easier to read and more reliable, since they follow the DNRY (do not repeat yourself) rule.
 
