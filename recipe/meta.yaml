@@ -1,4 +1,4 @@
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 {% set posix = 'm2-' if win else '' %}
 
@@ -10,10 +10,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/patrick_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/patrick/patrick_{{ version }}.tar.gz
-  sha256: 5ade2addfdb9e6f38027f7961bdfd35d8cd7ecf8de49074302543d2850dd12be
+  sha256: 148862daa8c4eac1dd6ae17b492a647c5700595587e521256b6a486e548bdfbf
 
 build:
-  number: 3
+  number: 0
   noarch: generic
 
   rpaths:
